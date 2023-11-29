@@ -14,6 +14,7 @@ import com.acciojobsshopping.backend.Accio.Shopping.Website.Backend.Service.Cart
 import com.acciojobsshopping.backend.Accio.Shopping.Website.Backend.Service.MailService;
 import com.acciojobsshopping.backend.Accio.Shopping.Website.Backend.Service.OrderService;
 import com.acciojobsshopping.backend.Accio.Shopping.Website.Backend.Service.UsersService;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import org.aspectj.weaver.ast.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -21,6 +22,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+
+@Tag(name = "User Service Endpoints", description = "This controller contains all the endpoints that a normal user can use.")
 
 @RestController
 public class UsersController {

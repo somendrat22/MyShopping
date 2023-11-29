@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04aa3055-6281-4cbe-8ccb-0626fededb86" name="Changes" comment="" />
+    <list default="true" id="04aa3055-6281-4cbe-8ccb-0626fededb86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/AccioShoppingWebsiteBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/AccioShoppingWebsiteBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/AccioShoppingWebsiteBackendApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/AccioShoppingWebsiteBackendApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/UsersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Controller/UsersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/AddProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/AddProductDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/AddUserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/AddUserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/LoginRequestDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/LoginRequestDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/PlaceOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/RequestDTO/PlaceOrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/BillDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/BillDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/GeneralMessageDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/GeneralMessageDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/LoginResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/LoginResponseDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/ShowCartDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/ShowCartDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/UnAuthorized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/DTO/ResponseDto/UnAuthorized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Enum/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Enum/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/AdminNotAvailableException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/AdminNotAvailableException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/OrderNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/OrderNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/ProductNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/ProductNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/UserNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/UserNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongAccessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongAccessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongCredentialsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongCredentialsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongPrefrenceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Exception/WrongPrefrenceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/CartRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/CartRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Repository/UsersRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/CartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/CartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/UsersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/acciojobsshopping/backend/Accio/Shopping/Website/Backend/Service/UsersService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,22 +63,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2YJK5YuJjnVmUazDrxkx6AaYosF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Som/Desktop/Project",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -48,6 +100,17 @@
       <updated>1700238060251</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
